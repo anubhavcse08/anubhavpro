@@ -387,8 +387,8 @@
     }
     #return-to-top i {
         left: 9px;
-        top: 6px;
-        font-size: 15px;
+        top: 5px;
+        font-size: 12px;
     }
 }
 @media (max-width: 668px) {  /*200 size*/
@@ -397,8 +397,8 @@
         height: 25px;
     }
    #return-to-top i {
-        left: 7px;
-        top: 3px;
+        left: 8px;
+        top: 2px;
         font-size: 12px;
     }
 }
