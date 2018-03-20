@@ -386,9 +386,9 @@
         height: 30px;
     }
     #return-to-top i {
-        left: 16px;
-        top: 13px;
-        font-size: 35px;
+        left: 20px;
+        top: 17px;
+        font-size: 15px;
     }
 }
 @media (max-width: 668px) {  /*200 size*/
