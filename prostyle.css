@@ -388,7 +388,7 @@
     #return-to-top i {
         left: 10px;
         top: 8px;
-        font-size: 15px;
+        font-size: 45px;
     }
 }
 @media (max-width: 668px) {  /*200 size*/
@@ -397,8 +397,8 @@
         height: 25px;
     }
    #return-to-top i {
-        left: 7px;
-        top: 5px;
+        left: 6px;
+        top: 4px;
         font-size: 15px;
     }
 }
