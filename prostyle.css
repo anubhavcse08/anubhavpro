@@ -386,8 +386,8 @@
         height: 30px;
     }
     #return-to-top i {
-        left: 12px;
-        top: 10px;
+        left: 10px;
+        top: 8px;
         font-size: 15px;
     }
 }
@@ -395,6 +395,11 @@
     #return-to-top {
         width: 25px;
         height: 25px;
+    }
+   #return-to-top i {
+        left: 7px;
+        top: 5px;
+        font-size: 15px;
     }
 }
 @media (max-width: 568px) {  /*200 size*/
