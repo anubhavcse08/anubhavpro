@@ -387,7 +387,7 @@
     }
     #return-to-top i {
         left: 9px;
-        top: 7px;
+        top: 6px;
         font-size: 15px;
     }
 }
@@ -399,7 +399,7 @@
    #return-to-top i {
         left: 7px;
         top: 3px;
-        font-size: 15px;
+        font-size: 12px;
     }
 }
 @media (max-width: 568px) {  /*200 size*/
