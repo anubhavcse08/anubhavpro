@@ -378,7 +378,11 @@
     color: #fff;
     top: 5px;
 }
-
+.icon-chevron-up {
+	bottom: 20px;
+    	right: 20px;
+	position:fixed;
+}
 
 @media (max-width: 768px) {  /*200 size*/
     #return-to-top {
@@ -386,8 +390,8 @@
         height: 30px;
     }
     .icon-chevron-up {
-	width:5px;
-	height:5px;
+	bottom: 20px;
+    	right: 20px;
     }
 }
 @media (max-width: 668px) {  /*200 size*/
