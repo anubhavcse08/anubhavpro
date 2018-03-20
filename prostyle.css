@@ -385,6 +385,11 @@
         width: 30px;
         height: 30px;
     }
+    #return-to-top i {
+        left: 16px;
+        top: 13px;
+        font-size: 14px;
+    }
 }
 @media (max-width: 668px) {  /*200 size*/
     #return-to-top {
