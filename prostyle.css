@@ -388,7 +388,7 @@
     #return-to-top i {
         left: 10px;
         top: 8px;
-        font-size: 45px;
+        font-size: 15px;
     }
 }
 @media (max-width: 668px) {  /*200 size*/
@@ -399,13 +399,18 @@
    #return-to-top i {
         left: 6px;
         top: 4px;
-        font-size: 15px;
+        font-size: 11px;
     }
 }
 @media (max-width: 568px) {  /*200 size*/
     #return-to-top {
         width: 20px;
         height: 20px;
+    }
+    #return-to-top i {
+        left: 2px;
+        top: 1px;
+        font-size: 7px;
     }
 }
 @media (max-width: 468px) {  /*200 size*/
