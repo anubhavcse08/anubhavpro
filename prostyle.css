@@ -410,7 +410,7 @@
         height: 20px;
     }
     #return-to-top i {
-        left: 2px;
+        left: 1px;
         top: 1px;
         font-size: 7px;
     }
@@ -419,6 +419,11 @@
     #return-to-top {
         width: 20px;
         height: 20px;
+    }
+    #return-to-top i {
+        left:-2px;
+        top: -1px;
+        font-size: 7px;
     }
 }
 @media (max-width: 368px) {  /*400 size*/
