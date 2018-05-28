@@ -380,3 +380,18 @@
     color: #fff;
     top: 5px;
 }
+
+.welcome {
+    color: lightgreen   ;
+}
+.greet {
+    color: orangered;
+}
+@media (max-width: 768px) {
+    .welcome {
+        visibility: hidden;
+    }
+    .greet {
+        visibility: hidden;
+    }
+}
