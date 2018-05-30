@@ -446,17 +446,17 @@ svg {
 }
 
 .text-copy:nth-child(2){
-	stroke: Maroon;
+	stroke: lightgreen;
 	animation-delay: -2s;
 }
 
 .text-copy:nth-child(3){
-	stroke: lightgreen;
+	stroke: maroon;
 	animation-delay: -3s;
 }
 
 .text-copy:nth-child(4){
-	stroke: lightgreen;
+	stroke: maroon;
 	animation-delay: -4s;
 }
 
