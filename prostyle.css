@@ -395,3 +395,76 @@
         visibility: hidden;
     }
 }
+
+/* SPIN name ANUBHAV KUMAR */
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+
+svg {
+    font: 7.5em 'Montserrat';
+    width: 660px;
+    height: auto;
+    margin: 0 auto;
+}
+@media (max-width: 768px) {
+    svg {
+        width: 460px;   
+    }
+}
+@media (max-width: 668px) {
+    svg {
+        width: 380px;   
+    }
+}
+@media (max-width: 568px) {
+    svg {
+        width: 310px;   
+    }
+}
+@media (max-width: 468px) {
+    svg {
+        width: 240px;   
+    }
+}
+@media (max-width: 368px) {
+    svg {
+        width: 200px;   
+    }
+}
+.text-copy {
+    fill: none;
+    stroke: white;
+    stroke-dasharray: 6% 29%;
+    stroke-width: 5px;
+    stroke-dashoffset: 0%;
+    animation: stroke-offset 5.5s infinite linear;
+}
+
+.text-copy:nth-child(1){
+    stroke: #7FFF00;
+	animation-delay: -1;
+}
+
+.text-copy:nth-child(2){
+	stroke: Maroon;
+	animation-delay: -2s;
+}
+
+.text-copy:nth-child(3){
+	stroke: lightgreen;
+	animation-delay: -3s;
+}
+
+.text-copy:nth-child(4){
+	stroke: lightgreen;
+	animation-delay: -4s;
+}
+
+.text-copy:nth-child(5){
+	stroke: #FDB731;
+	animation-delay: -5s;
+}
+
+@keyframes stroke-offset{
+	100% {stroke-dashoffset: -35%;}
+}
