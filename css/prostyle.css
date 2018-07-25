@@ -473,42 +473,57 @@ svg {
 	100% {stroke-dashoffset: -35%;}
 }
 
-/*
-
-@media (max-width: 768px) {                     //200 size
-    #return-to-top {
-        width: 30px;
-        height: 30px;
+@media (max-width: 768px) {
+    #findme {
+        font-size: 35px;
     }
-    #return-to-top i {
-        left: 16px;
-        top: 13px;
-        font-size: 19px;
+    #map {
+        width: 450px;
+        height: 300px;
     }
 }
-@media (max-width: 668px) {                     //250 size           comment these all are.....
-    #return-to-top {
-        width: 25px;
-        height: 25px;
+@media (max-width: 668px) {
+    #findme {
+        font-size: 30px;
+    }
+    #map {
+        width: 430px;
+        height: 270px; 
     }
 }
-@media (max-width: 568px) {                     //300 size
-    #return-to-top {
-        width: 20px;
-        height: 20px;
+@media (max-width: 568px) {
+    #findme {
+        font-size: 20px;
+    }
+    #map {
+        width: 320px;
+        height: 240px;   
     }
 }
-@media (max-width: 468px) {                     //350 size
-    #return-to-top {
-        width: 20px;
-        height: 20px;
+@media (max-width: 468px) {
+    #findme {
+        font-size: 15px;
+    }
+    #map {
+        width: 280px;
+        height: 200px;   
     }
 }
-@media (max-width: 368px) {                     //400 size
-    #return-to-top {
-        width: 15px;
-        height: 15px;
+@media (max-width: 368px) {
+    #findme {
+        font-size: 12px;
+    }
+    #map {
+        width: 220px;
+        height: 150px;   
     }
 }
-
-*/
+@media (max-width: 168px) {
+    #findme {
+        font-size: 7px;
+    }
+    #map {
+        width: 130px;
+        height: 70px;   
+    }
+}
