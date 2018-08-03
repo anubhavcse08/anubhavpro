@@ -261,12 +261,12 @@
 
 
 .html {width: 84%; background-color: #4CAF50;}
-.cnet {width: 75%; background-color: #2171F3;}
-.java {width: 70%; background-color: #ff00ff;}
+.cnet {width: 70%; background-color: #2171F3;}
+.java {width: 75%; background-color: #ff00ff;}
 .css {width: 60%; background-color: #2196F3;}
-.js {width: 55%; background-color: #ff8000;}
-.ccpp {width: 60%; background-color: #129997;}
-.py {width: 40%; background-color: #f44336;}
+.js {width: 50%; background-color: #ff8000;}
+.ccpp {width: 55%; background-color: #129997;}
+.py {width: 60%; background-color: #f44336;}
 @media (max-width: 768px) {  /*200 size*/
     .content p {
         text-align: left;
